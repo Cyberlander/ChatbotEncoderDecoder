@@ -4,4 +4,4 @@ The sequence to sequence model code modified and originally taken from [this ker
 To get a better understanding of sequence to sequence models with keras we propose this [blog post](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html) from Francois Chollet.
 # Dataset
 The dataset is the Cornell Movie-Quotes Corpus from Christian Danescu-Niculescu-Mizil and Lillian Lee and can be
-found on this[website](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
+found on this [website](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html).
